@@ -8,3 +8,6 @@ career. I am committed!
 Thank you for your patience.
 
 Finished my first class. Starting #2. Loving it!
+
+June 13
+Back to working on course #2!
