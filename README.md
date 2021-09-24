@@ -2,7 +2,7 @@
 
 I have a lot of code I need to put here. Looking forward to it.
 
-Back again. This time with Visual Code.
+Back again. This time with VS Code.
 
 Worked out the issues.
 
