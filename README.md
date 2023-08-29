@@ -1,7 +1,5 @@
-# Only Hello
+# Hello, world!
 
-I have a lot of code I need to put here. Looking forward to it.
-
-Back again.
-
-I need to learn more!
+Even though I've used git and github before,
+I consider myself a newbie. My thirst for
+learning has started to return
